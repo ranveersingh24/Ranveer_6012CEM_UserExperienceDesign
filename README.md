@@ -1,4 +1,4 @@
-# Ranveer_6012CEM_UserExperienceDesign
+# 6012CEM User Experience Design
 ## Welcome to Pet World
 ### Created by Ranveer Singh
 
