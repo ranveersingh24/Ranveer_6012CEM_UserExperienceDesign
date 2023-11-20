@@ -123,8 +123,8 @@ const NoticeCategoryItem = ({ notice }) => {
   };
 
   const categoryFilter = category => {
-    if (category === 'for-free') return 'in good hands';
-    if (category === 'lost-found') return 'lost/found';
+    if (category === 'for-free') return 'found';
+    if (category === 'lost-found') return 'lost';
     else return category;
   };
 

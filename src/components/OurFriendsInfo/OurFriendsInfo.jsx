@@ -110,7 +110,7 @@ const OurFriendsInfo = ({ workDays, address, email, phone }) => {
             </InfoBox>
           </li>
 
-          <li>
+          {/*<li>
             <InfoBox>
               {address ? (
                 <b>
@@ -123,7 +123,7 @@ const OurFriendsInfo = ({ workDays, address, email, phone }) => {
                 </b>
               )}
             </InfoBox>
-          </li>
+          </li>*/}
 
           <li>
             <InfoBox>

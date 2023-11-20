@@ -114,7 +114,7 @@ const FiltersByAge = ({ setFiltersState }) => {
               ) : (
                 <MdOutlineCheckBoxOutlineBlank fontSize="20" fill="#54ADFF" />
               )}
-              <FilterNameOfType>up to 1 year</FilterNameOfType>
+              <FilterNameOfType>more than 1 year</FilterNameOfType>
             </LabelcheckBox>
             <InputcheckBox
               type="checkbox"
@@ -131,7 +131,7 @@ const FiltersByAge = ({ setFiltersState }) => {
               ) : (
                 <MdOutlineCheckBoxOutlineBlank fontSize="20" fill="#54ADFF" />
               )}
-              <FilterNameOfType>up to 2 year</FilterNameOfType>
+              <FilterNameOfType>more than 2 year</FilterNameOfType>
             </LabelcheckBox>
             <InputcheckBox
               type="checkbox"

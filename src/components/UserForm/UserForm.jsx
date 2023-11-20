@@ -172,7 +172,7 @@ const UserForm = ({ disabled, setIsFormDisabled }) => {
               {formikProps.errors.birthday && errorsVisible && (
                 <Error>{formikProps.errors.birthday}</Error>
               )}
-              <Label htmlFor="phone">Phone:</Label>
+              {/*<Label htmlFor="phone">Phone:</Label>
               <Input
                 type="tel"
                 name="phone"
@@ -195,7 +195,7 @@ const UserForm = ({ disabled, setIsFormDisabled }) => {
               />
               {formikProps.errors.city && errorsVisible && (
                 <Error>{formikProps.errors.city}</Error>
-              )}
+              )}*/}
               {!disabled && (
                 <SubmitButton type="submit" disabled={showConfirm}>
                   Save
